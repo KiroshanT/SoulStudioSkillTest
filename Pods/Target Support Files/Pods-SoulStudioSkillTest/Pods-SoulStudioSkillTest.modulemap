@@ -1,0 +1,6 @@
+framework module Pods_SoulStudioSkillTest {
+  umbrella header "Pods-SoulStudioSkillTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

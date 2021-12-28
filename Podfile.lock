@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (5.5.0)
+  - Kingfisher (7.0.0)
+  - MBProgressHUD (1.2.0)
+  - Reachability (3.2)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.5)
+  - Kingfisher
+  - MBProgressHUD (~> 1.2.0)
+  - Reachability (= 3.2)
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - MBProgressHUD
+    - Reachability
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  Kingfisher: 5efc54fec3980f92354898532e562cc17f31efb4
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: d707efcdad570365ec3895dcd88f86bb6af3e4e7
+
+COCOAPODS: 1.10.1
